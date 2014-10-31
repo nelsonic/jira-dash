@@ -1,0 +1,23 @@
+{
+  "name": "jira-dash",
+  "version": "1.0.0",
+  "description": "dashboar for viewing JIRA updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsonic/jira-dash.git"
+  },
+  "keywords": [
+    "JIRA",
+    "viewer"
+  ],
+  "author": "@nelsonic <contact.nelsonic@gmail.com> (https://github.com/nelsonic)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonic/jira-dash/issues"
+  },
+  "homepage": "https://github.com/nelsonic/jira-dash"
+}
