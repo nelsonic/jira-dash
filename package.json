@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/nelsonic/jira-dash/issues"
   },
-  "homepage": "https://github.com/nelsonic/jira-dash"
+  "homepage": "https://github.com/nelsonic/jira-dash",
+  "dependencies": {
+    "jira": "^0.9.2"
+  },
+  "devDependencies": {
+    "lab": "^5.0.1"
+  }
 }
