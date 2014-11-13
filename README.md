@@ -24,3 +24,7 @@ https://www.atlassian.com/software/jira/features/
 ## Example Overview in JIRA
 
 ![JIRA Dashboard](http://i.imgur.com/CgdUZiV.png)
+
+
+>> Need to ask JIRA Admin to *enable* OAuth...
+> https://confluence.atlassian.com/display/JIRA/Allowing+OAuth+Access
